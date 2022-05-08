@@ -1,8 +1,8 @@
-Como controlar as versões dos programas? Como armazenar seus arquivos de programa? Como trabalhar em equipe e melhorar seu código? 
+# Como controlar as versões dos programas? Como armazenar seus arquivos de programa? Como trabalhar em equipe e melhorar seu código? 
 
 A resposta pode estar no Git e GitHub, um sistema distribuído e seguro. 
 
-Comandos principais
+Comandos principais:
 - cd <pasta> - para entrar na pasta desejada;
 - ls - para listar o conteúdo da pasta;
 - ls -a - para listar conteúdo incluindo pastas do Git;
