@@ -3,7 +3,7 @@
 A resposta pode estar no Git e GitHub, um sistema distribuído e seguro. 
 
 Comandos principais:
-- cd <pasta> - para entrar na pasta desejada;
+- cd |pasta| - para entrar na pasta desejada;
 - ls - para listar o conteúdo da pasta;
 - ls -a - para listar conteúdo incluindo pastas do Git;
 - cat <nome do aquivo> - para mostrar conteúdo do arquivo;
