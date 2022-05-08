@@ -7,7 +7,7 @@ Comandos principais:
 - ls - para listar o conteúdo da pasta;
 - ls -a - para listar conteúdo incluindo pastas do Git;
 - cat **nome do aquivo** - para mostrar conteúdo do arquivo;
-- git clone **caminha ssh ou https** - para clonar um conteúdo do GitHub;
+- git clone **caminho ssh ou https** - para clonar um conteúdo do GitHub;
 - git init - para inicializar um repositório;
 - git config --global user.email "**email**" - para informar e-mail do autor;
 - git config --global user.nome "**nome**" - para informar nome de usuário autor;
